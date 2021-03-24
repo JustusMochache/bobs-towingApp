@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Bobs_Towing_App_bottom_Nav"

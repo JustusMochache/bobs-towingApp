@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bobs_Towing_App_bottom_Nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="orders">Orders</string>
+    <string name="what_do_you_need">What do you need?</string>
+</resources>
